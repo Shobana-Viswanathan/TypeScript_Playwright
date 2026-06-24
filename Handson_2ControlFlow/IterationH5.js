@@ -1,4 +1,3 @@
-"use strict";
 let primefactn = 315;
 let factor = 2;
 let out = "";
@@ -10,3 +9,5 @@ while (primefactn > 1) {
     factor++;
 }
 console.log(out);
+export {};
+//# sourceMappingURL=IterationH5.js.map

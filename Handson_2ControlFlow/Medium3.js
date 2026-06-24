@@ -1,4 +1,3 @@
-"use strict";
 let code = 1;
 let number1 = 24.50;
 let number2 = 67.00;
@@ -13,3 +12,5 @@ else if (code == 2) {
 else if (code == 3) {
     console.log(word1 + word2);
 }
+export {};
+//# sourceMappingURL=Medium3.js.map

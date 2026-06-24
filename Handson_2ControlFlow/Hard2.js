@@ -1,4 +1,3 @@
-"use strict";
 let month = 2;
 let year = 2016;
 let days = 0;
@@ -59,3 +58,5 @@ switch (month) {
         break;
 }
 console.log(`${monthName} ${year} has ${days} days`);
+export {};
+//# sourceMappingURL=Hard2.js.map

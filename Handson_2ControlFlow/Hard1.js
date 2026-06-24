@@ -1,4 +1,3 @@
-"use strict";
 let totalClasses = 100;
 let attended = 60;
 let medical = 'N';
@@ -14,3 +13,5 @@ else {
         console.log(percentage + "% Not allowed");
     }
 }
+export {};
+//# sourceMappingURL=Hard1.js.map

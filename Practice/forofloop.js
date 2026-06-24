@@ -1,5 +1,6 @@
-"use strict";
 let arr = [10, 20, 30, 40, 50];
 for (var val of arr) {
     console.log(val);
 }
+export {};
+//# sourceMappingURL=forofloop.js.map

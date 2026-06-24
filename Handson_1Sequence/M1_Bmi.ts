@@ -1,0 +1,8 @@
+import * as fs from "fs";
+
+const lines = fs.readFileSync("Input.txt", "utf8").split(/\r?\n/);
+let weight: number = Number(lines[65]);
+let height: number = Number(lines[1.7]);
+let bmi: number = weight / (height * height);
+
+console.log("BMI: " + bmi.toFixed(2));

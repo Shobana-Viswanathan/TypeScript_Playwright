@@ -1,4 +1,3 @@
-"use strict";
 let strname = "Smith";
 let item = 40;
 let total = 0;
@@ -17,3 +16,5 @@ else {
 if (item >= 0) {
     console.log(strname + " " + total);
 }
+export {};
+//# sourceMappingURL=Medium5.js.map

@@ -1,4 +1,3 @@
-"use strict";
 const secret = Symbol("secret");
 const user = {
     name: "Alice",
@@ -7,3 +6,5 @@ const user = {
 console.log(user[secret]);
 const symbolss = Object.getOwnPropertySymbols(user);
 console.log(symbolss);
+export {};
+//# sourceMappingURL=symbols.js.map

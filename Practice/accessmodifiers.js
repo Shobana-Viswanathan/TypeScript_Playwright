@@ -1,4 +1,3 @@
-"use strict";
 class Car {
     brand;
     speed;
@@ -30,3 +29,5 @@ let myCar = new Car("Toyota", 60, "Gasoline");
 console.log(`Brand: ${myCar.brand}`);
 myCar.accelerate();
 myCar.displayCarInfo();
+export {};
+//# sourceMappingURL=accessmodifiers.js.map

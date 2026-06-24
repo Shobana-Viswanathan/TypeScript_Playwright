@@ -1,4 +1,3 @@
-"use strict";
 let start = 11;
 let end = 40;
 let outputs = "";
@@ -14,3 +13,5 @@ for (let i = start; i <= end; i++) {
     }
 }
 console.log(outputs);
+export {};
+//# sourceMappingURL=IterationH1.js.map

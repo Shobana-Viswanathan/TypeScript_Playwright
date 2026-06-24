@@ -1,4 +1,3 @@
-"use strict";
 let primen = 10;
 for (let num = 2; num <= primen; num++) {
     let count = 0;
@@ -11,3 +10,5 @@ for (let num = 2; num <= primen; num++) {
         console.log(num + " ");
     }
 }
+export {};
+//# sourceMappingURL=IterationM4.js.map

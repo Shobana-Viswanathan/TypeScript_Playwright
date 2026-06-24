@@ -1,4 +1,3 @@
-"use strict";
 let month = 11;
 if (month >= 3 && month <= 5) {
     console.log("Spring");
@@ -15,3 +14,5 @@ else if (month === 12 || month === 1 || month === 2) {
 else {
     console.log("Invalid month");
 }
+export {};
+//# sourceMappingURL=Hard3.js.map

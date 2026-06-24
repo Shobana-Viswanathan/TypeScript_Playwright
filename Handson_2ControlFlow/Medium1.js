@@ -1,4 +1,3 @@
-"use strict";
 let movieage = 15;
 if (movieage <= 10) {
     console.log("Cartoon Club");
@@ -12,3 +11,5 @@ else if (movieage < 0) {
 else {
     console.log("Not allowed");
 }
+export {};
+//# sourceMappingURL=Medium1.js.map

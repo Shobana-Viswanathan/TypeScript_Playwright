@@ -1,4 +1,3 @@
-"use strict";
 let x = 220;
 let y = 284;
 let sum_x = 0;
@@ -19,3 +18,5 @@ if (sum_x === y && sum_y === x) {
 else {
     console.log("Not an Amicable pair");
 }
+export {};
+//# sourceMappingURL=IterationH4.js.map

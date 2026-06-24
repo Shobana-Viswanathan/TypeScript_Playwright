@@ -1,4 +1,3 @@
-"use strict";
 var prac;
 (function (prac) {
     prac[prac["up"] = 1] = "up";
@@ -7,3 +6,5 @@ var prac;
     prac[prac["right"] = 4] = "right";
 })(prac || (prac = {}));
 console.log(prac);
+export {};
+//# sourceMappingURL=enum.js.map

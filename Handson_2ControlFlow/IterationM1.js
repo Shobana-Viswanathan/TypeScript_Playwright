@@ -1,4 +1,3 @@
-"use strict";
 let n = 10;
 let oddSum = 0;
 let evenSum = 0;
@@ -9,3 +8,5 @@ for (let i = 1; i <= n; i++) {
         oddSum += i;
 }
 console.log(oddSum + " " + evenSum);
+export {};
+//# sourceMappingURL=IterationM1.js.map

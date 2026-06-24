@@ -1,4 +1,3 @@
-"use strict";
 let income = 800000;
 let tax = 0;
 if (income < 250000) {
@@ -16,3 +15,5 @@ else {
     tax = income * 0.30;
     console.log("Tax amount is " + tax);
 }
+export {};
+//# sourceMappingURL=Hard4.js.map

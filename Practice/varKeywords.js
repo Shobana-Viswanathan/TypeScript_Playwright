@@ -1,4 +1,3 @@
-"use strict";
 function e1() {
     var v = 1;
     console.log(v);
@@ -10,3 +9,5 @@ function e1() {
     }
 }
 e1();
+export {};
+//# sourceMappingURL=varKeywords.js.map

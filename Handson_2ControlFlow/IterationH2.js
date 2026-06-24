@@ -1,4 +1,3 @@
-"use strict";
 let no = "1634";
 let numLen = no.length;
 let total = 0;
@@ -12,3 +11,5 @@ if (total === Number(no)) {
 else {
     console.log(false);
 }
+export {};
+//# sourceMappingURL=IterationH2.js.map

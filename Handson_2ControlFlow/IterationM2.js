@@ -1,4 +1,3 @@
-"use strict";
 let num = 61987;
 let str = String(num);
 if (str.length === 5) {
@@ -7,3 +6,5 @@ if (str.length === 5) {
 else {
     console.log("Not a valid number");
 }
+export {};
+//# sourceMappingURL=IterationM2.js.map
